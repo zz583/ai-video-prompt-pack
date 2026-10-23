@@ -1,3 +1,5 @@
+![AI Short-Video Prompt Pack](banner-wide.png)
+
 # AI Short-Video Prompt Pack Vol.1
 ### Segmented generation · Character locking · Style replication — a production-verified prompt system
 
